@@ -5,6 +5,10 @@ module.exports = {
   themeConfig: {
     nav: [
       {
+        text: '首页',
+        link: '/'
+      },
+      {
         text: "设计数据密集型应用",
         link: "/ddia/",
       },
@@ -14,7 +18,7 @@ module.exports = {
       },
       {
         text: "GitHub",
-        link: "https://github.com/chhpt/ddia",
+        link: "https://github.com/chhpt/books",
       },
     ],
     sidebar: {
