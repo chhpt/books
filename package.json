@@ -1,0 +1,26 @@
+{
+  "name": "ddia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhpt/ddia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhpt/ddia/issues"
+  },
+  "homepage": "https://github.com/chhpt/ddia#readme",
+  "dependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
