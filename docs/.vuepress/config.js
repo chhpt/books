@@ -1,7 +1,7 @@
 const sidebar = require("./sidebars");
 
 module.exports = {
-  base: "/books/",
+  base: "/",
   themeConfig: {
     nav: [
       {

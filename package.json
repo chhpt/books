@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "vuepress dev docs",
+    "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/chhpt/ddia#readme",
   "dependencies": {
-    "vuepress": "^1.4.0"
+    "vuepress": "^1.5.2"
   }
 }

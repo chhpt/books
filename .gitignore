@@ -32,3 +32,4 @@ the-way-to-go.sublime-workspace
 
 node_modules
 docs/.vuepress/dist
+.vercel
